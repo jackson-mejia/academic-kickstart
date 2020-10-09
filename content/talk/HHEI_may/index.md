@@ -12,7 +12,7 @@ address:
   country: 
 
 summary: A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act 2017 using initial findings from 10-K data filed by C corporations with the SEC.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act (TCJA) 2017 using initial findings from 10-K data filed by C corporations with the SEC. Following the passage of TCJA, it was widely thought that investment would increase because many provisions were favorable to increased investment, including a reduced statutory tax rate and 100% bonus depreciation for a limited period of time. But investment did not rise as much as predicted. I supply a few potential explanations for this: effective tax rates did not change much for major corporations, investment elasticities from other tax cuts were improperly applied, and political economy considerations were not considered enough."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -60,15 +60,3 @@ projects:
 
 # Enable math on this page?
 math: true
----
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.

@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Investment and TCJA 2017: Where Did the Projection Go Wrong?
 event: Academic Theme Conference
 event_url: https://example.org
 

@@ -16,8 +16,8 @@ abstract: "I gave a 90-minute lecture on different aspects of corporate taxation
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-14T1:00:00Z"
-date_end: "2020-09-14T2:30:00Z"
+date: "2020-09-14T13:00:00Z"
+date_end: "2020-09-14T14:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

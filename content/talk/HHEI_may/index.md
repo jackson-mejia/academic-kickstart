@@ -1,6 +1,6 @@
 ---
-title: Investment and TCJA 2017: Where Did the Projections Go Wrong?
-event: Heller-Hurwicz Economics Institute Undergraduate Symposium
+title: Example Talk
+event: Academic Theme Conference
 event_url: https://example.org
 
 location: HHEI

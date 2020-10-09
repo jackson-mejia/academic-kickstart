@@ -1,5 +1,5 @@
 ---
-title: TCJA Through RBC Testing Tax Shocks
+title: "TCJA Through RBC"
 authors:
 - admin
 author_notes:

@@ -40,7 +40,7 @@ links:
 #  url: ""
 url_code: ""
 url_pdf: ""
-url_slides: "slides/corporate_taxation.pdf"
+url_slides: "slides/corporate_taxation_mcg.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

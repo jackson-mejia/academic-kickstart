@@ -34,13 +34,13 @@ image:
   focal_point: Right
 
 links:
-- icon: 
-  icon_pack:
-  name:
-  url:
+- icon: ""
+  icon_pack: ""
+  name: ""
+  url: ""
 url_code: ""
 url_pdf: ""
-url_slides: https://github.com/jackson-mejia/academic-kickstart/blob/master/static/media/TCJA_pres_may.pdf
+url_slides: "static/media/TCJA_pres_may.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -68,7 +68,6 @@ Click on the **Slides** button above to view the built-in slides feature.
 
 Slides can be added in a few ways:
 
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 

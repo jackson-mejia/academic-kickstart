@@ -1,7 +1,7 @@
 ---
 title: Investment and TCJA 2017
 event: Academic Theme Conference
-event_url: https://example.org
+# event_url: https://example.org
 
 location: HHEI
 address:
@@ -11,7 +11,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act 2017 using initial findings from 10-K data filed by C corporations with the SEC.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.

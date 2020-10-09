@@ -1,11 +1,13 @@
 ---
-title: On Price Stability with a Job Guarantee"
+title: On Price Stability with a Job Guarantee
 authors:
 - admin
 - Brian C. Albrecht
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+- "Heller-Hurwicz Economics Institute"
+- "Assistant Professor of Economics
+Coles College of Business
+Kennesaw State University"
 date: "2020-10-06T00:00:00Z"
 doi: ""
 
@@ -27,9 +29,7 @@ abstract: Price stability and full employment are stated policy objectives for m
 # Summary. An optional shortened abstract.
 summary: We analyze a job guarantee implemented by fiscal policy and find that an inflation bias would emerge. We compare this to a similar proposal, a labor standard under monetary policy, and find that the labor standard would be a superior rule for monetary and price stability.
 
-tags:
-- Source Themes
-featured: false
+
 
 # links:
 # - name: ""

@@ -4,12 +4,12 @@ event: Heller-Hurwicz Economics Institute Undergraduate Symposium
 # event_url: https://example.org
 
  location: Heller-Hurwicz Economics Institute
-# address:
- # street: 450 Serra Mall
- # city: Stanford
- # region: CA
- # postcode: '94305'
- # country: United States
+ address:
+  street: 450 Serra Mall
+  city: Stanford
+ region: CA
+  postcode: '94305'
+  country: United States
 
 summary: A brief discussion of some initial findings on why investment failed to reach its projected heights following the passage of the Tax Cuts and Jobs Act in 2017 using data from SEC 10-K filings.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."

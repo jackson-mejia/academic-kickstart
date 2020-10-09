@@ -1,12 +1,12 @@
 ---
-title: On Price Stability with a Job Guarantee"
+title: "An example journal article"
 authors:
 - admin
-- Brian C. Albrecht
+- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2020-10-06T00:00:00Z"
+date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,16 +16,16 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Price stability and full employment are stated policy objectives for many economists, especially economists who subscribe to Modern Money Theory (MMT). To achieve both goals, MMT economists argue for instituting a federal job guarantee program, which they argue would help anchor overall prices. We examine whether this proposal would achieve price stability by extending a benchmark model of time inconsistency to include a job guarantee program. We show that a job guarantee program implemented through fiscal policy is incompatible with stable prices and would generate inflation. With discretion, policymakers have an incentive to target a smaller quantity of job guarantee workers than is consistent with stable prices. We compare this program to a similar proposal, a labor standard under monetary policy, and argue that the MMT proposal would result in worse price stability because of political incentives and informational constraints on policymakers.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
-summary: We analyze a job guarantee implemented by fiscal policy and find that an inflation bias would emerge. We compare this to a similar proposal, a labor standard under monetary policy, and find that the labor standard would be a superior rule for monetary and price stability.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "papers/Mejia_Albrecht_MMT_web.pdf"
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: ''
 url_dataset: ''
 url_poster: ''

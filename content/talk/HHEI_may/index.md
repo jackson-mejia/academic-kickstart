@@ -1,9 +1,9 @@
 ---
 title: Investment and TCJA 2017
-event: Academic Theme Conference
+event: HHEI Research Symposium
 # event_url: https://example.org
 
-location: HHEI
+location: Heller-Hurwicz Economics Institute
 address:
   street: 
   city: 

@@ -40,7 +40,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://github.com/jackson-mejia/academic-kickstart/blob/master/static/media/TCJA_pres_may.pdf"
 url_video: ""
 
 # Markdown Slides (optional).

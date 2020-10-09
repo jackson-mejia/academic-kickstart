@@ -5,11 +5,11 @@ event: Academic Theme Conference
 
 location: HHEI
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
 summary: A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act 2017 using initial findings from 10-K data filed by C corporations with the SEC.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
@@ -29,8 +29,8 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#image:
+#  caption: 'Image credit: [**Unsplash**]#(https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
@@ -40,7 +40,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: https://github.com/jackson-mejia/academic-kickstart/blob/master/static/media/TCJA_pres_may.pdf
 url_video: ""
 
 # Markdown Slides (optional).

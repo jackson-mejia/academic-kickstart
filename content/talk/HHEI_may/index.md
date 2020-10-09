@@ -1,9 +1,9 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
+title: Investment and TCJA 2017: Where Did the Projections Go Wrong?
+event: Heller-Hurwicz Economics Institute Undergraduate Symposium
 event_url: https://example.org
 
-location: Source Themes HQ
+location: HHEI
 address:
   street: 450 Serra Mall
   city: Stanford

@@ -11,7 +11,6 @@ superuser: true
 
 # Role/position
 role: Consulting Analyst
-role: Research Assistant
 
 # Organizations/Affiliations
 organizations:

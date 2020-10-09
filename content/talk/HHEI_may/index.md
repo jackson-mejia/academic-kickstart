@@ -1,5 +1,5 @@
 ---
-title: Example
+title: Investment and TCJA 2017
 event: Academic Theme Conference
 event_url: https://example.org
 

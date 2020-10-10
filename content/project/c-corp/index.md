@@ -6,7 +6,7 @@ tags:
 date: "2020-10-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://shiny.rstudio.com/gallery/didacting-modeling.html
+external_link: https://jackson-mejia1.shinyapps.io/mcgrattan_app_2/
 
 image:
   caption: 

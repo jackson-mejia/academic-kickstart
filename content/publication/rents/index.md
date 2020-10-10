@@ -23,7 +23,7 @@ publication_short: ""
 abstract: Tax wedges, legal forms, and rent-seeking have historically been areas of significant study for economists. Here, we consider two relevant effects for rent-seeking competitions between corporate and non-corporate firms. First, there has historically been a large tax wedge between corporate and non-corporate firms; corporate firms tend to be taxed at much higher rates. Second, corporate firms generally are much larger than non-corporate firms across most dimensions. We show that the first effect, the tax effect, introduces a bias against rent-seeking for corporations, but the size effect dominates this and quickly pushes non-corporate firms out of the rent-seeking competition. These results have significant implications for policy and add an important contribution to the tax wedge literature.
 
 # Summary. An optional shortened abstract.
-summary: In this study, we analyze the effects of taxation and firm size on non-cooperative rent-seeking competitions.
+summary: In this study, I analyze the effects of taxation and firm size on non-cooperative rent-seeking competitions.
 
 
 

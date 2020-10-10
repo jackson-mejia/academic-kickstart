@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 5
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -73,5 +73,9 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+ 
+ [design.spacing]
+  # Customize the section spacing. Order is top, right, bottom, left.
+  padding = ["0px", "0", "0px", "0"]
 +++
 

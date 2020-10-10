@@ -75,6 +75,4 @@ user_groups:
 - Visitors
 ---
 
-Jackson Mejia is a consultant at Accenture, a research assistant to Professor Anmol Bhandari and Professor Ellen McGrattan, and a Don Lavoie Fellow at the Mercatus Center. He received his B.S. in economics with minors in statistics and mathematics from the University of Minnesota. 
-
-Jackson’s research is primarily concerned with the effects of changes in corporate taxation and regulation on investment, output, firm location, and legal form.  He is particularly interested in the difference between firm-level tax shocks, which may not come from policy changes, and macro-level aggregate tax shocks, which may overlook idiosyncratic changes. To examine this, he has helped the Bhandari-McGrattan team extract and analyze effective tax rates and their subcomponents from 10-K forms filed with the SEC.
+Jackson Mejia is a consultant at Accenture, a research assistant to Professor Anmol Bhandari and Professor Ellen McGrattan, and a Don Lavoie Fellow at the Mercatus Center. He received his B.S. in economics with minors in statistics and mathematics from the University of Minnesota. He is particularly interested in macroeconomics and corporate taxation, especially the extent to which there may be a difference between firm-level tax shocks and policy-induced tax shocks.

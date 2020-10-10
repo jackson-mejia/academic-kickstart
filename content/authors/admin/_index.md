@@ -20,7 +20,7 @@ organizations:
   url: "http://users.econ.umn.edu/~erm/HHEIscholars.php"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Institute at the University of Minnesota. My research interests include macroeconomics, cororate taxation, and political economics.
+bio: I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics, corporate taxation, and political economics.
 
 interests:
 - Macroeconomics

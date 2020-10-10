@@ -9,6 +9,6 @@ date: "2020-10-04T00:00:00Z"
 external_link: https://jackson-mejia1.shinyapps.io/mcgrattan_app_2/
 
 image:
-  caption: 
-  focal_point:
+  caption: Effective tax rates from C Corp Explorer
+  focal_point: Smart
 ---

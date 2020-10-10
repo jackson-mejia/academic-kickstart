@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Consulting Analyst
+role: 
 
 # Organizations/Affiliations
 organizations:

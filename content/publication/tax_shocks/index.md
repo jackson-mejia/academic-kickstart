@@ -1,6 +1,6 @@
 
 ---
-title: "TCJA Through RBC"
+title: "Firm Heterogeneity and the Tax Elasticity of Capital"
 authors:
 - admin
 author_notes:

@@ -31,7 +31,7 @@ summary: "This paper serves two goals. First, to illustrate that multipliers and
 # - name: ""
 #   url: ""
 url_pdf: "papers/mejia_tax_shocks.pdf"
-url_code: "code/tax_shocks/panel_regressions.R"
+url_code: "code/tax_shocks/Scripts.zip"
 url_dataset: ''
 url_poster: ''
 url_project: ''

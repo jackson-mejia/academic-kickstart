@@ -14,8 +14,6 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Accenture
-  url: "https://www.accenture.com/us-en"
 - name: Heller-Hurwicz Economics Institute
   url: "https://cla.umn.edu/heller-hurwicz"
 
@@ -75,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-Jackson Mejia is a consultant at Accenture, a research assistant to Professor Anmol Bhandari and Professor Ellen McGrattan, and a Don Lavoie Fellow at the Mercatus Center. He received his B.S. in economics with minors in statistics and mathematics from the University of Minnesota. He is particularly interested in macroeconomics and corporate taxation, especially the extent to which there may be a difference between firm-level tax shocks and policy-induced tax shocks.
+ I am currently a consulting analyst at Accenture and a research assistant to Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation.

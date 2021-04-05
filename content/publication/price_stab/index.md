@@ -7,7 +7,7 @@ author_notes:
 - "Heller-Hurwicz Economics Institute"
 - "Assistant Professor of Economics,
 Kennesaw State University"
-date: "2020-10-06T00:00:00Z"
+date: "2020-12-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

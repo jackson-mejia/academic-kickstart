@@ -32,7 +32,7 @@ education:
     year: 2018-2020
   - course: PhD in Economics
     institution: MIT
-    year: 2021-
+    year: 2021-2026
 #  - course: MEng in Artificial Intelligence
  #   institution: Massachusetts Institute of Technology
  #   year: 2009

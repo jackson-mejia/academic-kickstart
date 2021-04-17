@@ -27,12 +27,12 @@ interests:
 
 education:
   courses:
-  - course: BS in Economics
-    institution: University of Minnesota
-    year: 2018-2020
   - course: PhD in Economics
     institution: MIT
-    year: 2021-2026
+    year: 2026 (expected)
+  - course: BS in Economics
+    institution: University of Minnesota
+    year: 2020
 #  - course: MEng in Artificial Intelligence
  #   institution: Massachusetts Institute of Technology
  #   year: 2009
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation. I will be starting a PhD in economics at MIT in Fall 2021.
+I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation. I am starting a PhD in economics at MIT in Fall 2021.

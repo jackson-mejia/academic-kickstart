@@ -11,8 +11,8 @@ address:
   postcode: 
   country: 
 
-summary: A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act 2017 using initial findings from 10-K data filed by C corporations with the SEC.
-abstract: "A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act (TCJA) 2017 using initial findings from 10-K data filed by C corporations with the SEC. Following the passage of TCJA, it was widely thought that investment would increase because many provisions were favorable to increased investment, including a reduced statutory tax rate and 100% bonus depreciation for a limited period of time. But investment did not rise as much as predicted. I supply a few potential explanations for this: effective tax rates did not change much for major corporations, investment elasticities from other tax cuts were improperly applied, and political economy considerations were not considered enough."
+# summary: A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act 2017 using initial findings from 10-K data filed by C corporations with the SEC.
+# abstract: "A brief discussion of the weak investment response engendered by the passage of the Tax Cuts and Jobs Act (TCJA) 2017 using initial findings from 10-K data filed by C corporations with the SEC. Following the passage of TCJA, it was widely thought that investment would increase because many provisions were favorable to increased investment, including a reduced statutory tax rate and 100% bonus depreciation for a limited period of time. But investment did not rise as much as predicted. I supply a few potential explanations for this: effective tax rates did not change much for major corporations, investment elasticities from other tax cuts were improperly applied, and political economy considerations were not considered enough."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

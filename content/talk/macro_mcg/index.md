@@ -11,8 +11,8 @@ address:
   postcode: 
   country: 
 
-summary: I gave a 90-minute lecture on different aspects of corporate taxation to second-year economics PhD students in Professor Ellen McGrattan's Advanced Topics in Macroeconomics course. I covered aspects of US corporate tax history, the difficulties with measurement, and some intermediate economic theory about corporate taxation.
-abstract: "I gave a 90-minute lecture on different aspects of corporate taxation to second-year economics PhD students in Professor Ellen McGrattan's Advanced Topics in Macroeconomics course. I covered aspects of US corporate tax history, the difficulties with measurement, and some intermediate economic theory about corporate taxation. In particular, I discussed different motivations for taxing corporate income, the ways in which tax rates and elasticities are measured and how different outcomes can result from those differences, and some theory about the user cost of capital, tax incidence, and RBC models."
+# summary: I gave a 90-minute lecture on different aspects of corporate taxation to second-year economics PhD students in Professor Ellen McGrattan's Advanced Topics in Macroeconomics course. I covered aspects of US corporate tax history, the difficulties with measurement, and some intermediate economic theory about corporate taxation.
+# abstract: "I gave a 90-minute lecture on different aspects of corporate taxation to second-year economics PhD students in Professor Ellen McGrattan's Advanced Topics in Macroeconomics course. I covered aspects of US corporate tax history, the difficulties with measurement, and some intermediate economic theory about corporate taxation. In particular, I discussed different motivations for taxing corporate income, the ways in which tax rates and elasticities are measured and how different outcomes can result from those differences, and some theory about the user cost of capital, tax incidence, and RBC models."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

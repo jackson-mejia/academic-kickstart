@@ -24,7 +24,7 @@ publication_short: ""
 abstract: "This study examines the impact on the capital stock and investment of tax shocks at the firm level. Utilizing a vector of exogenous tax shocks, we show that the capital stock net of depreciation decreases by approximately 2.4% in response to a one percentage point increase in the average corporate tax rate, in agreement with existing macroeconomic literature. Similarly, spending on intangible capital decreases by 2.8% for the typical firm in response to a one percentage point increase in the average corporate tax rate. Empirically, we show that firms exhibit substantial heterogeneity in response to a tax shock. In particular, large firms tend to be highly sensitive to a tax shock while multinationals recover much more quickly than their domestic counterparts. We also show using Jorda local projections that tax shocks tend to have deep and long-lasting effects on firm-level investment and the capital stock, reaching a peak decrease of 3.75% in the capital stock after seven quarters."
 
 # Summary. An optional shortened abstract.
-summary: In this study, I analyze the firm-level heterogeneity of investment responses in intangible investment and in the tangible capital stock to tax shocks identified from the narrative legislative record by Romer and Romer.
+# summary: In this study, I analyze the firm-level heterogeneity of investment responses in intangible investment and in the tangible capital stock to tax shocks identified from the narrative legislative record by Romer and Romer.
 
 
 

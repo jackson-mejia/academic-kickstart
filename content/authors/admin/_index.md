@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation. I am starting a PhD in economics at MIT in Fall 2021.
+# I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation. I am starting a PhD in economics at MIT in Fall 2021.

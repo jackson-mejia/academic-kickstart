@@ -23,7 +23,7 @@ publication_short: ""
 abstract: "Here, in an attempt to tease out some of the effects of TCJA on the economy, we sketch out a basic RBC model with two exogenous processes: productivity shocks and a proportional tax on capital income. The point here is to illustrate that even a simple model has substantial explanatory power over relevant policy events and their outcomes."
 
 # Summary. An optional shortened abstract.
-summary: Here, I analyze the 2017 Tax Cuts and Jobs Act through an RBC model. The point here is to illustrate that even a simple model has substantial explanatory power over relevant policy events.
+# summary: Here, I analyze the 2017 Tax Cuts and Jobs Act through an RBC model. The point here is to illustrate that even a simple model has substantial explanatory power over relevant policy events.
 
 
 

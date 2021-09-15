@@ -5,8 +5,7 @@ tags:
 - Demo
 date: "2020-10-04T00:00:00Z"
 
-
-
+external_link: https://jackson-mejia1.shinyapps.io/mcgrattan_app_2/
 
 
 image:

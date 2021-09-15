@@ -5,18 +5,7 @@ tags:
 - Demo
 date: "2020-10-04T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-# links:
-# - name: ""
-#   url: ""
-url_pdf: "papers/quarterly_business_fixed_asset.pdf"
-url_code: "code/quarterly_fixed_asset_estimates/quarterly_fixed_asset.zip"
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+
 
 
 

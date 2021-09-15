@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Heller-Hurwicz Economics Institute
-  url: "https://cla.umn.edu/heller-hurwicz"
+- name: Massachussetts Institute of Technology
+  #url:
 
 # Short bio (displayed in user profile at end of posts)
 # bio: I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation. I will be starting a PhD in economics at MIT in Fall 2021.
@@ -23,7 +23,6 @@ organizations:
 interests:
 - Macroeconomics
 - Corporate Taxation
-- Political Economy
 
 education:
   courses:

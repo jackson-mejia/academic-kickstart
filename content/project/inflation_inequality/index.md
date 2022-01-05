@@ -1,5 +1,5 @@
 ---
-title: Quarterly Business Fixed Asset Data
+title: Inflation Inequality
 summary: Estimates of income percentile-level household inflation from 1979-Present. Email me for data and technical appendix.
 tags:
 - Demo

@@ -2,8 +2,8 @@
 title: "Aggregation and Tax Shocks: Lessons from Firm-Level Data"
 authors:
 - admin
-author_notes:
-- "Heller-Hurwicz Economics Institute"
+#author_notes:
+#- "Heller-Hurwicz Economics Institute"
 date: "2021-04-05T00:00:00Z"
 doi: ""
 

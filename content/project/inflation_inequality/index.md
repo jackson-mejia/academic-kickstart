@@ -1,12 +1,12 @@
 ---
 title: Inflation Inequality
-summary: Estimates of income percentile-level household inflation from 1979-Present. Email me for data and technical appendix.
+summary: Estimates of income percentile-level household inflation from 1979-Present. Email me for data. 
 tags:
 - Demo
 date: "2022-01-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-url_pdf: ""
+url_pdf: "inflation_inequality_data.pdf"
 url_code: ""
 url_dataset: ''
 url_poster: ''

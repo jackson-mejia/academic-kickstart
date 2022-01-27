@@ -3,10 +3,10 @@ title: On Price Stability with a Job Guarantee
 authors:
 - admin
 - Brian C. Albrecht
-#author_notes:
-#- "Heller-Hurwicz Economics Institute"
-#- "Assistant Professor of Economics,
-#Kennesaw State University"
+author_notes:
+- "Heller-Hurwicz Economics Institute"
+- "Assistant Professor of Economics,
+Kennesaw State University"
 date: "2020-12-06T00:00:00Z"
 #doi: ""
 

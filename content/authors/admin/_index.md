@@ -28,7 +28,7 @@ education:
   courses:
   - course: PhD in Economics
     institution: MIT
-    year: 2026 (expected)
+    year: 2027 (expected)
   - course: BS in Economics
     institution: University of Minnesota
     year: 2020

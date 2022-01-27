@@ -6,7 +6,7 @@ tags:
 date: "2022-01-04T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-url_pdf: "inflation_inequality_data.pdf"
+url_pdf: "papers/inflation_inequality_data.pdf"
 url_code: ""
 url_dataset: ''
 url_poster: ''

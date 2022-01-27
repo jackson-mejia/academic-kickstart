@@ -6,7 +6,7 @@ authors:
 #author_notes:
 #- "Heller-Hurwicz Economics Institute"
 #- "Assistant Professor of Economics,
-Kennesaw State University"
+#Kennesaw State University"
 date: "2020-12-06T00:00:00Z"
 #doi: ""
 

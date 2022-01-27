@@ -2,8 +2,8 @@
 title: Firm Size, the Corporate Tax Wedge, and Rent-Seeking
 authors:
 - admin
-author_notes:
-- "Heller-Hurwicz Economics Institute"
+#author_notes:
+#- "Heller-Hurwicz Economics Institute"
 date: "2021-04-03T00:00:00Z"
 doi: ""
 

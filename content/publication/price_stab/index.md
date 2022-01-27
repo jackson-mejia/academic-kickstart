@@ -39,7 +39,7 @@ targeting.
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "papers/Mejia_Albrecht_MMT_web_2022.pdf"
+url_pdf: "papers/Mejia_Albrecht_MMT_2022.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

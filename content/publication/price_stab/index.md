@@ -3,9 +3,9 @@ title: On Price Stability with a Job Guarantee
 authors:
 - admin
 - Brian C. Albrecht
-author_notes:
-- "Heller-Hurwicz Economics Institute"
-- "Assistant Professor of Economics,
+#author_notes:
+#- "Heller-Hurwicz Economics Institute"
+#- "Assistant Professor of Economics,
 Kennesaw State University"
 date: "2020-12-06T00:00:00Z"
 #doi: ""
@@ -23,13 +23,13 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-# abstract: Modern Money Theory (MMT) has risen to prominence in popular policy debates within
-macroeconomics. MMT economists argue for creating a job guarantee program, which
-they argue would generate price stability. Using a benchmark model of time consistency
-supplemented with a job guarantee, we conclude that once policymakers’ incentives are
-considered, the job guarantee does nothing to help stabilize prices. We compare this
-program to a competing proposal to maintain price stability and full employment, NGDP
-targeting.
+#abstract: Modern Money Theory (MMT) has risen to prominence in popular policy debates within
+#macroeconomics. MMT economists argue for creating a job guarantee program, which
+#they argue would generate price stability. Using a benchmark model of time consistency
+#supplemented with a job guarantee, we conclude that once policymakers’ incentives are
+#considered, the job guarantee does nothing to help stabilize prices. We compare this
+#program to a competing proposal to maintain price stability and full employment, NGDP
+#targeting.
 
 # Summary. An optional shortened abstract.
 # summary: We analyze a job guarantee implemented by fiscal policy and find that an inflation bias would emerge. We compare this to a similar proposal, a labor standard under monetary policy, and find that the labor standard would be a superior rule for monetary and price stability.

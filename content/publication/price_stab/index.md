@@ -20,7 +20,7 @@ publishDate: "2022-04-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forthcoming, Contemporary Economic Policy"
+publication: "*Forthcoming, Contemporary Economic Policy*"
 publication_short: ""
 
 #abstract: Modern Money Theory (MMT) has risen to prominence in popular policy debates within

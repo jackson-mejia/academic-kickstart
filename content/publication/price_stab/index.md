@@ -7,7 +7,7 @@ authors:
 #- "Heller-Hurwicz Economics Institute"
 #- "Assistant Professor of Economics,
 #Kennesaw State University"
-date: "2020-12-06T00:00:00Z"
+date: "2022-12-06T00:00:00Z"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,7 +20,7 @@ publishDate: "2022-04-14T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Forthcoming, Contemporary Economic Policy*"
+publication: "Forthcoming, *Contemporary Economic Policy*"
 publication_short: ""
 
 #abstract: Modern Money Theory (MMT) has risen to prominence in popular policy debates within
@@ -38,7 +38,7 @@ publication_short: ""
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "papers/Mejia_Albrecht_MMT_web.pdf"
 url_pdf: "papers/Mejia_Albrecht_MMT_web.pdf"
 url_code: ''
 url_dataset: ''

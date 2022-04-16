@@ -24,25 +24,27 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
- # [content.filters]
+  [content.filters]
+     folders: 
+     - publication
  #   tag = ""
  ##   category = ""
   #  publication_type = ""
   #  author = ""
   #  exclude_featured = false
   
-#[design]
+[design]
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  #view = 4
+  view = 4
   
-  design:
+  #design:
   # Choose a view for the listings:
-  view: citation
-  columns: '2'
+  # view: citation
+  # columns: '2'
   
 [design.background]
   # Apply a background color, gradient, or image.

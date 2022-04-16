@@ -23,8 +23,8 @@ copyright = ""
 # Get last modified date for content from Git?
 enableGitInfo = false
 # HUGOENABLEGITINFO = false
-[context.production.environment]
-  HUGO_VERSION = "0.83.1"
+# [context.production.environment]
+ # HUGO_VERSION = "0.83.1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

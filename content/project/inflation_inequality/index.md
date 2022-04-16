@@ -14,7 +14,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-url_freopp: 'https://www.dropbox.com/sh/yo5ry745bgprlkb/AAChwCcscMaoTcDV8Qo5CgdEa?dl=0'
+url_freopp: "https://www.dropbox.com/sh/yo5ry745bgprlkb/AAChwCcscMaoTcDV8Qo5CgdEa?dl=0"
+
 #image:
 #  caption: Effective tax rates from C Corp Explorer
 #  focal_point: Smart

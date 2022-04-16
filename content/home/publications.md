@@ -25,8 +25,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-     folders: 
-     - publication
+     
  #   tag = ""
  ##   category = ""
   #  publication_type = ""

@@ -16,9 +16,7 @@ url_source: ''
 url_video: ''
 url_freopp: "https://www.dropbox.com/sh/yo5ry745bgprlkb/AAChwCcscMaoTcDV8Qo5CgdEa?dl=0"
 links:
-- icon_pack: fab
-    icon: medium
-    name: Originally published on Medium
+-   name: Originally published on Medium
     url: 'https://medium.com'
 #image:
 #  caption: Effective tax rates from C Corp Explorer

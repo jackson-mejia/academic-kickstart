@@ -15,7 +15,8 @@ url_slides: ''
 url_source: ''
 url_video: ''
 url_freopp: "https://www.dropbox.com/sh/yo5ry745bgprlkb/AAChwCcscMaoTcDV8Qo5CgdEa?dl=0"
- - icon_pack: fab
+links:
+- icon_pack: fab
     icon: medium
     name: Originally published on Medium
     url: 'https://medium.com'

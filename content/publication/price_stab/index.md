@@ -39,7 +39,7 @@ publication_short: ""
 # links:
 # - name: ""
 #  url: ''
-url_pdf: "papers/Mejia_Albrecht_MMT_web.pdf"
+# url_pdf: "papers/Mejia_Albrecht_MMT_web.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

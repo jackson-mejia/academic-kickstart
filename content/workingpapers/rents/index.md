@@ -30,7 +30,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "papers/Mejia_Corporate_Rents_web.pdf"
+# url_pdf: "papers/Mejia_Corporate_Rents_web.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

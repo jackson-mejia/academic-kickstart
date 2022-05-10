@@ -18,6 +18,8 @@ url_freopp: "https://www.dropbox.com/sh/yo5ry745bgprlkb/AAChwCcscMaoTcDV8Qo5CgdE
 links:
 -   name: Dropbox
     url: 'https://www.dropbox.com/sh/yo5ry745bgprlkb/AAChwCcscMaoTcDV8Qo5CgdEa?dl=0'
+-   name: White Paper
+    url: 'https://freopp.org/inflations-compounding-impact-on-the-poor-f82ea4d61d9b'
 #image:
 #  caption: Effective tax rates from C Corp Explorer
 #  focal_point: Smart

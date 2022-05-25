@@ -38,7 +38,7 @@ publication_short: ""
 
 # links:
 # - name: ""
-url: 'https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12573'
+url_paper: 'https://onlinelibrary.wiley.com/doi/full/10.1111/coep.12573'
 # url_pdf: "papers/Mejia_Albrecht_MMT_web.pdf"
 url_code: ''
 url_dataset: ''

@@ -18,20 +18,20 @@ organizations:
   #url:
 
 # Short bio (displayed in user profile at end of posts)
-# bio: I am currently a consulting analyst at Accenture and a research assistant to Professors Anmol Bhandari and Ellen McGrattan at the Heller-Hurwicz Economics Institute at the University of Minnesota. My research interests include macroeconomics and corporate taxation. I will be starting a PhD in economics at MIT in Fall 2021.
+bio: I am a PhD student in economics at MIT and a Visiting Fellow at the Foundation for Research on Equal Opportunity. My research interests are in macroeconomics and public finance.
 
-interests:
-- Macroeconomics
-- Corporate Taxation
+# interests:
+# - Macroeconomics
+# - Corporate Taxation
 
 education:
   courses:
   - course: PhD in Economics
     institution: MIT
-    year: 2027 (expected)
+    year: 2021-Present
   - course: BS in Economics
     institution: University of Minnesota
-    year: 2020
+    year: 2018-2020
 #  - course: MEng in Artificial Intelligence
  #   institution: Massachusetts Institute of Technology
  #   year: 2009

@@ -16,14 +16,14 @@ role:
 organizations:
 - name: Massachussetts Institute of Technology
 # - name: FREOPP
-  #url:
+  # url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in economics at MIT and a Visiting Fellow at the Foundation for Research on Equal Opportunity. My research interests are in macroeconomics and public finance.
+# bio: I am a PhD student in economics at MIT and a Visiting Fellow at the Foundation for Research on Equal Opportunity. My research interests are in macroeconomics and public finance.
 
- interests:
- - Macroeconomics
- - Corporate Taxation
+ # interests:
+ # - Macroeconomics
+ # - Corporate Taxation
 
 education:
   courses:

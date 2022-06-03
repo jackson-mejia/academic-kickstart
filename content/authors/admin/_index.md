@@ -15,7 +15,7 @@ role:
 # Organizations/Affiliations
 organizations:
 - name: Massachussetts Institute of Technology
-# - name: FREOPP
+- name: FREOPP
   # url:
 
 # Short bio (displayed in user profile at end of posts)

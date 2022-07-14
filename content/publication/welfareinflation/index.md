@@ -1,5 +1,5 @@
 ---
-title: "Accounting for the Distributional Welfare Consequences of Inflationary Policy"
+title: "Distributional Costs of Inflation over the Short-, Medium-, and Long-Run"
 authors:
 - admin
 #author_notes:

@@ -1,5 +1,5 @@
 ---
-title: "Distributional Costs of Inflation over the Short-, Medium-, and Long-Run"
+title: "Who Bears the Cost of Inflationary Policy"
 authors:
 - admin
 #author_notes:

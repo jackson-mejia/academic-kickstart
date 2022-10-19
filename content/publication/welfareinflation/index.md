@@ -1,5 +1,5 @@
 ---
-title: "Who Bears the Cost of Inflationary Policy"
+title: "The Classical Cost of Inflation Along the Income Distribution"
 authors:
 - admin
 #author_notes:

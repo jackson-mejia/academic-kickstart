@@ -27,10 +27,10 @@ publication_short: ""
 
 
 
-# links:
-# - name: ""
-#   url: ""
- url_pdf: "papers/mejia_tax_shocks.pdf"
+ links:
+ - name: ""
+   url: ""
+url_pdf: "papers/mejia_tax_shocks.pdf"
 # #url_code: "code/tax_shocks/Scripts.zip"
 url_dataset: ''
 url_poster: ''

@@ -1,5 +1,5 @@
 ---
-title: "The Classical Cost of Inflation Along the Income Distribution"
+title: "The Cost of Inflation Along the Income Distribution"
 authors:
 - admin
 #author_notes:

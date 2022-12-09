@@ -1,5 +1,5 @@
 ---
-title: "The Cost of Inflation Along the Income Distribution"
+title: "The Classicla Cost of Inflation Along the Income Distribution"
 authors:
 - admin
 #author_notes:
@@ -30,7 +30,7 @@ publication_short: ""
 # links:
 # - name: ""
 #   url: ""
-url_pdf: "papers/mejia_tax_shocks.pdf"
+url_pdf: "papers/Classical_Cost_Inflation_Mejia.pdf"
 # url_code: "code/tax_shocks/Scripts.zip"
 url_dataset: ''
 url_poster: ''

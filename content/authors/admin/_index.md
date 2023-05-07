@@ -23,7 +23,7 @@ bio: In the same way that some people are labor economists, I am a capital econo
 
 interests:
   - Macroeconomics
-  - Corporate Taxation
+  - Capital Economics
 
 education:
   courses:
@@ -76,3 +76,4 @@ user_groups:
 - Visitors
 ---
 
+I am a capital economist, or at least striving to be one.

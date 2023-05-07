@@ -19,7 +19,7 @@ organizations:
   # url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD student in economics at MIT and a Visiting Fellow at the Foundation for Research on Equal Opportunity. My research interests are in macroeconomics and public finance.
+bio: In the same way that some people are labor economists, I am a capital economist.
 
 interests:
   - Macroeconomics

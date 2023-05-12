@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-I am a capital economist, or at least striving to be one.
+# I am a capital economist, or at least striving to be one.

@@ -19,7 +19,7 @@ organizations:
   # url:
 
 # Short bio (displayed in user profile at end of posts)
-bio: In the same way that some people are labor economists, I am a capital economist.
+# bio: In the same way that some people are labor economists, I am a capital economist.
 
 interests:
   - Macroeconomics

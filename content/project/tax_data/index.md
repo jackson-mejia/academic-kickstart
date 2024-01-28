@@ -6,6 +6,7 @@ tags:
 date: "2024-01-28T00:00:00Z"
 
 external_link: https://www.dropbox.com/scl/fo/nr9znx9usr8xnf6j2aulf/h?rlkey=vvxddu7ftzwn3ifkju7lxmbhg&dl=0
+url_code: "https://www.dropbox.com/scl/fo/nr9znx9usr8xnf6j2aulf/h?rlkey=vvxddu7ftzwn3ifkju7lxmbhg&dl=0"
 
 
 image:

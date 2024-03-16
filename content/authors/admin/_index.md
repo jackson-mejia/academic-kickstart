@@ -14,8 +14,8 @@ role:
 
 # Organizations/Affiliations
 organizations:
-- name: Massachussetts Institute of Technology
-- name: FREOPP
+# - name: Massachussetts Institute of Technology
+# - name: FREOPP
   # url:
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,10 +27,10 @@ interests:
 
 education:
   courses:
-  - course: PhD in Economics
+ # - course: PhD in Economics
     institution: MIT
     year: 2021-Present
-  - course: BS in Economics
+ # - course: BS in Economics
     institution: University of Minnesota
     year: 2018-2020
 #  - course: MEng in Artificial Intelligence
